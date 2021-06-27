@@ -1,9 +1,5 @@
 title: TEST
-# email: 
-# description:
-url: "https://danielmiao1.github.io/local-github-site-test/" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username:
-# github_username:
+url: "https://danielmiao1.github.io/local-github-site-test/"
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
